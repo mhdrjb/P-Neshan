@@ -1,0 +1,24 @@
+@font-face {
+    font-family: peyda bl;
+    src: url(fonts/PeydaWeb-Black.woff2);
+}
+
+@font-face {
+    font-family: peyda b;
+    src: url(fonts/PeydaWeb-Bold.woff2);
+}
+
+@font-face {
+    font-family: peyda eb;
+    src: url(fonts/PeydaWeb-ExtraBold.woff2);
+}
+
+@font-face {
+    font-family: Vazir FD;
+    src: url(fonts/Vazir-FD.woff2);
+}
+
+@font-face {
+    font-family: Vazir FB;
+    src: url(fonts/Vazir-Bold-FD.woff2);
+}
